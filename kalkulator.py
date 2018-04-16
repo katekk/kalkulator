@@ -1,6 +1,6 @@
 print('Hello')
 
-def dodaj()
+def dodaj(a,b)
 	a=int(input())
 	b=int(input())
 	print(a+b)
