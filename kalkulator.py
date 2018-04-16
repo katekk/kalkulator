@@ -7,3 +7,6 @@ def dodaj(a,b)
 dodaj()
 
 print("new")
+
+def get_help():
+	print("wprowadz liczby a zostana dodane")
